@@ -15,7 +15,7 @@ You can read about a few more technical notes below.
 
 ## Data
 
-PDFs, extracted images (cropped, and resized to smaller resolutions), extracted text, and 
+PDFs, extracted images (cropped, and resized to smaller resolutions), extracted text, and a JSON object containing metadata and some qualitative labeling of the data can be found here: <a href="https://github.com/russian-ad-explorer/russian-ad-datasets">russian-ad-datasets</a> and <a href="https://github.com/russian-ad-explorer/russian-ad-pdfs">russian-ads-pdfs</a>.
 
 ## Filter.js
 
